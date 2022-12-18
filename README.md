@@ -14,4 +14,4 @@ Visual analysis: After the creation of the differents visuals I found that Japan
 country witht the most Smarthphones users, this is a direct relationship as China has more population in comparison with the rest of the countries.
 Troubleshooting: I have some irregular map visual but I found the correct parameters by doing some research online, I fixed it and have as a result a map with shows all the countries with the more life expectancy.
 
-Tools: Power Bi & R studio
+Tools: Tableau and Excel
