@@ -4,6 +4,8 @@
 
 Aim: The Wealth of nations’ data, I could process data of the GDP, life expectancy and smartphones users from different countries around the world.Used Tableau and set up relationships between them.
 
+![This is an image](
+
 Finding 1: The relationship in GDP, life expectancy and users of smartphones.
 Finding 2: The Wealth of nations per capita which is was Monaco accorsingly my data provided.
 
